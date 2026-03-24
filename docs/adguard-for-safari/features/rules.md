@@ -1,6 +1,15 @@
----
+---!sooplive
+vod-player001.sooplive.com
+vod-player002.sooplive.com
+vod-player002.sooplive.com
+vod-player003.sooplive.com
+main-player.sooplive.com
+img-display.sooplive.com
+
+sooplive.com##.click_area
+sooplive.com##.left.a_d_left.Advertising_Output_Area
+sooplive.com##.Advertising_Output_Area
 title: User rules
 sidebar_position: 4
 ---
 
-User rules can be used to customize ad blocking. They can be added manually, imported, or created automatically when you block an element on the page. To add your own filtering rules, use a [special syntax](/general/ad-filtering/create-own-filters).
